@@ -17,13 +17,14 @@ Merilo runs on most Linuxes and uses Java, Groovy, jTidy and Mightycrawler. It i
 Configuration
 -------------
 
-Open crawler/crawler.properties and adjust crawling parameters as necessary.
+After downloading, edit crawler/crawler.properties and adjust crawling parameters as necessary.
 
 
 Running
 -------
 
 Start Merilo by executing run.sh. It is strongly recommended to take a look inside run.sh and try out each step manually first.
+Open the report in reports/index.html when everything is done.
 
 
 History
