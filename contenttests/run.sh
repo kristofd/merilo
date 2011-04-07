@@ -1,0 +1,1 @@
+java -cp ../groovy/groovy.jar groovy.lang.GroovyShell Content.groovy > ../reports/contenterrors.html

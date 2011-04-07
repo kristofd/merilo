@@ -1,0 +1,1 @@
+java -cp ../groovy/groovy.jar:jtidy.jar groovy.lang.GroovyShell Validate.groovy > ../reports/htmlerrors.html
